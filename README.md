@@ -1,4 +1,4 @@
-This is Able Fit test project
+# Coach, Clients and Session API's
 
 API service that allows creation of Coaches, Clients and Sessions.
 
