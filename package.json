@@ -1,7 +1,7 @@
 {
-  "name": "able-fit-task",
+  "name": "coach-sessions-api",
   "version": "1.0.0",
-  "description": "Able Fit task API",
+  "description": "Coach sessions API",
   "main": "src/index.ts",
   "scripts": {
     "start": "node bin/index.js",
