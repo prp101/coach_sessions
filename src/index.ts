@@ -14,7 +14,7 @@ server.register(require('fastify-swagger'), {
     routePrefix: '/swagger',
     swagger: {
         info: {
-            title: 'Able Fit test swagger',
+            title: 'Swagger',
             description: 'Fastify swagger API',
             version: '0.1.0'
         },
